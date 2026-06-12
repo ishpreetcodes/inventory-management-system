@@ -28,7 +28,7 @@ def dashboard():
     title.image = bgimage
 
     title.place(x=0, y=0, relwidth=1)
-    logoutbutton= Button(frame2, text= "logout",font= ("Times new roman", 20, "bold"))
+    logoutbutton= Button(frame2, text= "logout",font= ("Times new roman", 20, "bold"), command= dashboardd.destroy)
     logoutbutton.place(x=1100, y=25)
     subtitle= Label(frame2, text= "Welcome Admin",font=("Times new roman", 20))
     subtitle.place(x=0, y=120, relwidth=1)
