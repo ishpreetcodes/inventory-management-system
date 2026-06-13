@@ -1,6 +1,7 @@
 #INVENTORY MANAGEMENT SYSTEM
 
 ##OVERVIEW
+
 The Inventory Management System is a desktop-based application developed using Python, Tkinter, MySQL, and Matplotlib. The project helps manage products, suppliers, employees, categories, and inventory records while providing valuable business insights through an interactive analytics dashboard.
 
 The application is designed to simplify inventory operations and improve stock monitoring through data visualization and efficient record management.
@@ -28,6 +29,7 @@ The application is designed to simplify inventory operations and improve stock m
 - Identify low-stock and out-of-stock products.
 
 •Analytics Dashboard
+
 ✓ KPI Cards:
   
   - Total Products
@@ -75,6 +77,7 @@ Dashboard Analytics
 <img width="1358" height="741" alt="image" src="https://github.com/user-attachments/assets/9d5225db-a6fa-446d-b968-434ba16cfba5" />
 
 ##DATABASE
+
 The project uses MySQL as the backend database to store and manage information related to employees, suppliers, categories, and products. SQL queries are used to perform CRUD operations and maintain data integrity.
 
 ##LEARNING OUTCOMES
@@ -95,6 +98,7 @@ The project uses MySQL as the backend database to store and manage information r
 - Advanced Dashboard Analytics
 
 ##AUTHOR
+
 Ishpreet Kaur
 Master's in Commerce | Data Analytics Trainee
 
