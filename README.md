@@ -100,5 +100,6 @@ The project uses MySQL as the backend database to store and manage information r
 ##AUTHOR
 
 Ishpreet Kaur
+
 Master's in Commerce | Data Analytics Trainee
 
